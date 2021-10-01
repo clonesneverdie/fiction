@@ -1,18 +1,20 @@
-# Clones Never Die
+# Fiction - Clones Never Die
 
 
 
-## 클론네버다이란 무엇인가요?
+## 픽션 - 클론네버다이란 무엇인가요?
 
-1. ### **This is a science fiction novel** 
+1. ### **이것은 공상 과학 소설입니다.** 
 
-   1. This is not programming code, datasets, or technical documentation.
-   2. This is a science fiction novel that can be collaborated through Github.
-   3. NFT illustrations are included.
+   1. 이것은 프로그래밍 코드, 데이터셋, 기술 문서가 아닙니다.
+   2. 이것은 깃허브를 통해 협업이 가능한 공상 과학 소설입니다.
+   3. NFT 컬렉션 'Clones Never Die'를 기반으로 시작되었습니다.
 
-2. ### Why use Github?
+2. ### 소설을 쓰는데 왜 깃허브를 이용합니까?
 
-   1. To create a story that lasts and develops forever. Github is best framework to create this type of story.
+   1. 영원히 지속되고 발전되는 이야기를 만들기 위해서 입니다. 
+   2. 클론네버다이는 방대한 스케일의 세계관을 가지고 있습니다. 구체적인 스토리텔링을 위해 1인 작가가 아닌 다수의 작가가 협업할 필요가 있습니다.
+   - 깃허브는 이러한 타입의 이야기를 작성하기 위한 최적의 도구입니다.
 
 3. ### Story Features
 
