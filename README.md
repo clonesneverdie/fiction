@@ -1,8 +1,8 @@
-# Tokenloss
+# Clones Never Die
 
 
 
-## What is Tokenloss?
+## 클론네버다이란 무엇인가요?
 
 1. ### **This is a science fiction novel** 
 
