@@ -2,7 +2,7 @@
 
 
 
-## 픽션 - 클론네버다이란 무엇인가요?
+## 픽션 - '클론네버다이'란 무엇인가요?
 
 1. ### **이것은 공상 과학 소설입니다.** 
 
@@ -14,61 +14,35 @@
 
    1. 영원히 지속되고 발전되는 이야기를 만들기 위해서 입니다. 
    2. 클론네버다이는 방대한 스케일의 세계관을 가지고 있습니다. 구체적인 스토리텔링을 위해 1인 작가가 아닌 다수의 작가가 협업할 필요가 있습니다.
-   - 깃허브는 이러한 타입의 이야기를 작성하기 위한 최적의 도구입니다.
+      - 깃허브는 이러한 타입의 이야기를 작성하기 위한 최적의 도구입니다.
 
-3. ### Story Features
+3. ### [클론네버다이, 그리고 세계관 읽어보기](https://medium.com/clones-never-die/fiction-chapter-01-%ED%81%B4%EB%A1%A0%EC%9D%98-%EC%B6%9C%ED%98%84-f401dc36fa85)
 
-   1. #### Main concept and worldview
 
-      1. The world is largely divided into two categories: the real world and the virtual reality. The largest and most widely used virtual reality is called Overworld.
+4. ### 클론네버다이 소설 목표
 
-         - The real world aims to be the same as the world we live in. (USA and China exist and use Ethereum blockchain, etc.)
-      2. The real world is another virtual reality. 
-      3. The conflict between humans with and without Ethereum super tokens (cryptopunk, etc.) intensifies.
+   1. #### 'Star wars' 다음으로 가장 거대한 세계관을 가진 새로운 SF(공상과학)소설 만들기
 
-         - Ethereum token holders unite to establish a new country with super powers that surpass the United States and China. This is called United Contracts.
+      - 최근 현실과 SF장르 소설의 괴리가 빠르게 줄어들고 있으며, 세계는 SF소설에 점점 가까워지고 있습니다.
+      - 이전에 만들어진 SF 세계관은 지금 우리가 예측하는 미래와는 매우 다릅니다.
+        1. 그래서 흥미롭지가 않으며, 우리는 새로운 세계관이 필요합니다.
 
-      4. Humans and AI coexist. However, as the AI gets stronger, the confrontation between the two intensifies.
+   2. #### 지속되고 발전하는 이야기를 통해 NFT 예술작품이 잊혀지는 것을 방지하세요.
 
-         - There are AIs that are hostile to humans.
-
-      5. United Contract uses the Ethereum blockchain for all voting.
-
-         - There is a bug that can manipulate Ethereum governance. (There is a bug that can disable the decentralization of Ethereum.) The bug was intentionally inserted by early developers of Ethereum, who predicted that AI's voting power would be stronger, to secure human dominance over Ethereum.
-        6. Tokens capable of executing bugs may only be used by the Secretary-General of United Contract. And the secretary-general is died in an accident and the tokens become unavailable. The secretary-general created a personal virtual reality and hid it there in case Seedword was lost. The protagonists enter virtual reality to find Seedword.
-   2. #### Detail settings and worldview
-
-      1. ##### Settings for NFT author's creative topics
-
-         - AI has three appearances. (You can draw several pictures on one character.)
-           1. Basic appearance in virtual reality.
-              1. It usually looks like a cute monster. It is illegal for AI to take on human form in public places. There is hierarchy between human and AI.
-           2. Appearance in a human form in virtual reality. 
-           3. Appearance of a robot to enter the real world. This is because AI created in virtual reality does not have a physical body.
-
-4. ### **Goal of the project tokenloss**
-
-   1. #### Create a new science fiction with the most massive worldview after Star Wars.
-
-      - Recently, the gap between reality and science fiction is rapidly narrowing. The world is getting closer to science fiction. The sci-fi worldviews created before are very different from the future we predict now. 
-        1. So it's not fun. We need a new worldview.
-
-   2. #### Prevent NFT artworks from being forgotten through a story that continues and develops.
-
-      - *NFT collectors* are reluctant to buy work that doesn't have a story. This is because the work is apt to be forgotten and difficult to resell.
-      - *NFT authors* could feel difficulty when they are making a new story. It's also a problem to continue to build a community for the new story.
-      - It's also difficult for *science fiction writers* to make revenue just by writing.
-      - **<u>Tokenloss offers a huge theme that solves the problems of the three workers above.</u>**
+      - *NFT 수집가*는 스토리가 없는 작품을 사는 것을 주저하고, 이러한 작품은 잊혀지기 쉽고 재판매가 어렵기 때문입니다.
+      - *NFT 작가*는 새로운 이야기를 만들 때 어려움을 느낄 수 있고, 새로운 이야기를 위한 커뮤니티를 계속 구축하는 것도 문제입니다.
+      - 글쓰기만으로 수익을 내는 것도 *공상과학소설 작가*에게는 어려운 일입니다.
+      - ***클론네버다이는 위의 세 문제를 해결할 수 있는 큰 주제를 제공합니다.
       
       
 
-## How to read
+## 소설 읽는 방법?
 
-1. Go to https://github.com/akikenshin/tokenloss/tree/main/1.%20Book%20-%20tokenloss
+1. [클론네버다이](docs/novel.md)
 
 
 
-## How to collaborate
+## 클론네버다이 소설 작성하기
 
 1. Insert your NFT arts that matches with the paragraph around.
 
@@ -135,3 +109,17 @@
 1. All authors and collectors can make revenue by issuing related NFTs. and get the token sales revenue, the token re-sales royalties. It's 100% yours.
 2. Commercial use other than those listed in #1 above and trading copyright using NFT is not permitted.
 
+## Full disclosure
+The novel is roughly completed (that is, while it's got an ending, it will actually never be finished since it might evolve in time) and is published in Amazon.com and the rest of the Amazon shops. Since all your contributions will be here, in the repo, they are obviously acknowledged, but I'll acknowledge it also in the prologue itself and, if I earn enough to be able to physically print it and mail it, will mail you a copy. That's quite unlikely to happen, however, so I'll make a promise I can keep: to follow you in Twitter, so accompany your pull request with your Twitter account so I can fulfill my promise.
+
+## Start reading and participating
+Just go to the novel. You can also read about the [클론](docs/Clones.md), although doing so might result in spoiling the story for yourself, or about the geography of the Republic of Florida.
+
+## How this can help you write your own novel
+Read the installation instructions to get your very own novel going in Github. They are long-ish, but may be worth your while.
+
+Navigating the repository
+You already know the text directory, which contains the novel text itself as well as scraps we might need for later. resources contains HTML templates, images and other non-text stuff. apps includes conversion scripts and other mainly Perl scripts I use for managing this. Text-Hoborg contains a Perl module that is used for testing and continuous integration and might eventually contain the novel itself and be released that way.
+
+## Get in touch
+If you have some issue related to the novel, use the GitHub issues. For any other business, just email me.
