@@ -44,20 +44,23 @@
 
 ## 클론네버다이 소설 작성하기
 
-1. Insert your NFT arts that matches with the paragraph around.
+1. 문단과 일치하는 클론 NFT 이미지를 삽입하십시오.
 
-   1. As you see the example below, there is a figure of a NFT art which is helpful to describe the novel.
-      - Sales revenue and royalties from NFT itself are 100% yours. Please refer to the license section on this page.
-      - Even if the figure already contains an art link, you can add a link underneath it. Up to 5 are allowed.
+아래의 예와 같이 소설을 묘사하는 데 도움이 되는 NFT 미술의 그림이 있습니다.
+
+NFT 자체의 판매 수익과 로열티는 100% 당신 것입니다. 이 페이지의 라이센스 섹션을 참조하십시오.
+
+그림에 이미 아트 링크가 포함되어 있는 경우에도 아래에 링크를 추가할 수 있습니다. 최대 5개까지 허용됩니다.
 
    ```
    "Hello. It's talkontoken. Today we have prepared an interview with the futurist Carlos! Don't forget to like and subscribe!" a show host said.
    
    "(...) Now UC (United Contracts) is taking over the role of the former state. But this is not a very new concept. There were people who said this very long ago. (...) But these days, it can be said that it fits much better than then. We call of the strongest existing organization as contracts now, right?" Carlos said.
- 
+ ```
  <!-- " " 사이에 이미지파일 주소를 입력하세요  -->  
- <img src="https://clonesneverdie.com/assets/toon1/1.png" width="200" height="200"/><img src="https://clonesneverdie.com/assets/toon1/2.png" width="200" height="200"/><img src="https://clonesneverdie.com/assets/toon1/3.png" width="200" height="200"/> 
-
+ <img src="https://clonesneverdie.com/assets/toon1/2.png" width="200" height="200"/><img src="https://clonesneverdie.com/assets/v2-sample.jpg" width="200" height="200"/> 
+ 
+ 
 2. Insert any sentences which follows tokenloss settings. Or replace old sentences with better sentences you know.
 
 3. If you want to start a different story that fits tokenloss settings and worldview, start working by adding a new folder named a new subtitle.
