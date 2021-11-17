@@ -166,7 +166,7 @@
 
 
 
-
+[Contribution guidelines for this project](test.md)
 ## How you can help
 After the paragraphs above, you might have already realized English is not my main language. Sending me corrections is not the only way you can help
 
