@@ -163,3 +163,35 @@
 1. All authors and collectors can make revenue by issuing related NFTs. and get the token sales revenue, the token re-sales royalties. It's 100% yours.
 2. Commercial use other than those listed in #1 above and trading copyright using NFT is not permitted.
 
+
+
+
+
+## How you can help
+After the paragraphs above, you might have already realized English is not my main language. Sending me corrections is not the only way you can help
+
+You can just follow on Twitter or Facebook and interact with it.
+Get a GitHub account.
+Watch, star or fork this repo. You don't need to do anything else. for the time being, but it will help me achieve some visibility.
+You can interact with the text and the rest directly from the web: you can comment on text and changes in it (called commits).
+You can also request changes on the text using issues. If you find an error of any kind, just raise an issue and I'll fix it (or try to).
+Create your own version: once forked, you can use git (check out this manual http://wiki.freegeek.org/index.php/Git_for_dummies ) to branch and evolve the story in whichever way you want.
+
+
+You can keep that copy (hey, it's free as in free speech) or, if you think it's a worthwhile addition to Hoborg, do a Pull Request.
+Check out the TODO list in case you find something that you could do yourself.
+
+## Full disclosure
+The novel is roughly completed (that is, while it's got an ending, it will actually never be finished since it might evolve in time) and is published in Amazon.com and the rest of the Amazon shops. Since all your contributions will be here, in the repo, they are obviously acknowledged, but I'll acknowledge it also in the prologue itself and, if I earn enough to be able to physically print it and mail it, will mail you a copy. That's quite unlikely to happen, however, so I'll make a promise I can keep: to follow you in Twitter, so accompany your pull request with your Twitter account so I can fulfill my promise.
+
+## Start reading and participating
+Just go to the novel. You can also read about the characters, although doing so might result in spoiling the story for yourself, or about the geography of the Republic of Florida.
+
+## How this can help you write your own novel
+Read the installation instructions to get your very own novel going in Github. They are long-ish, but may be worth your while.
+
+Navigating the repository
+You already know the text directory, which contains the novel text itself as well as scraps we might need for later. resources contains HTML templates, images and other non-text stuff. apps includes conversion scripts and other mainly Perl scripts I use for managing this. Text-Hoborg contains a Perl module that is used for testing and continuous integration and might eventually contain the novel itself and be released that way.
+
+## Get in touch
+If you have some issue related to the novel, use the GitHub issues. For any other business, just email me.
