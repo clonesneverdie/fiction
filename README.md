@@ -44,22 +44,10 @@
 
 ## 클론네버다이 소설 작성하기
 
-1. 문단과 일치하는 클론 NFT 이미지를 삽입하십시오.
-
-아래의 예와 같이 소설을 묘사하는 데 도움이 되는 NFT 미술의 그림이 있습니다.
-
-NFT 자체의 판매 수익과 로열티는 100% 당신 것입니다. 이 페이지의 라이센스 섹션을 참조하십시오.
-
-그림에 이미 아트 링크가 포함되어 있는 경우에도 아래에 링크를 추가할 수 있습니다. 최대 5개까지 허용됩니다.
-
-   ```
-   "Hello. It's talkontoken. Today we have prepared an interview with the futurist Carlos! Don't forget to like and subscribe!" a show host said.
+1. 클론네버다이에서 펼쳐갈 나만의 클론 만들기.
+   - [클론](docs/Clones_Character.md)의 정보를 새로 생성하여 당신의 이야기를 펼쳐보세요.
    
-   "(...) Now UC (United Contracts) is taking over the role of the former state. But this is not a very new concept. There were people who said this very long ago. (...) But these days, it can be said that it fits much better than then. We call of the strongest existing organization as contracts now, right?" Carlos said.
- ```
- <!-- " " 사이에 이미지파일 주소를 입력하세요  -->  
- <img src="https://clonesneverdie.com/assets/toon1/2.png" width="200" height="200"/><img src="https://clonesneverdie.com/assets/v2-sample.jpg" width="200" height="200"/> 
- 
+
  
 2. Insert any sentences which follows tokenloss settings. Or replace old sentences with better sentences you know.
 
@@ -116,7 +104,7 @@ NFT 자체의 판매 수익과 로열티는 100% 당신 것입니다. 이 페이
 The novel is roughly completed (that is, while it's got an ending, it will actually never be finished since it might evolve in time) and is published in Amazon.com and the rest of the Amazon shops. Since all your contributions will be here, in the repo, they are obviously acknowledged, but I'll acknowledge it also in the prologue itself and, if I earn enough to be able to physically print it and mail it, will mail you a copy. That's quite unlikely to happen, however, so I'll make a promise I can keep: to follow you in Twitter, so accompany your pull request with your Twitter account so I can fulfill my promise.
 
 ## Start reading and participating
-Just go to the novel. You can also read about the [클론](docs/Clones.md), although doing so might result in spoiling the story for yourself, or about the geography of the Republic of Florida.
+Just go to the novel. You can also read about the, although doing so might result in spoiling the story for yourself, or about the geography of the Republic of Florida.
 
 ## How this can help you write your own novel
 Read the installation instructions to get your very own novel going in Github. They are long-ish, but may be worth your while.
