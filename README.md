@@ -1,7 +1,5 @@
 # Fiction - Clones Never Die
 
-
-
 ## 픽션 - '클론네버다이'란 무엇인가요?
 
 1. ### **이것은 공상 과학 소설입니다.** 
@@ -16,10 +14,7 @@
    2. 클론네버다이는 방대한 스케일의 세계관을 가지고 있습니다. 구체적인 스토리텔링을 위해 1인 작가가 아닌 다수의 작가가 협업할 필요가 있습니다.
       - 깃허브는 이러한 타입의 이야기를 작성하기 위한 최적의 도구입니다.
 
-3. ### [클론네버다이, 그리고 세계관 읽어보기](docs/novel_CND_프롤로그.md)
-
-
-4. ### 클론네버다이 소설 목표
+3. ### 클론네버다이 소설 목표
 
    1. #### 'Star wars' 다음으로 가장 거대한 세계관을 가진 새로운 SF(공상과학)소설 만들기
 
@@ -37,15 +32,14 @@
       
 
 ## 소설 읽는 방법?
+1. ### [클론네버다이, 그리고 세계관 읽어보기](docs/novel_CND_프롤로그.md)
 
-1. [클론네버다이](docs/novel_CND.md)
-
-
+2. ### [클론네버다이](docs/novel_CND.md)
 
 ## 클론네버다이 소설 작성하기
 
 1. 클론네버다이에서 펼쳐갈 나만의 클론 만들기.
-   - [클론](docs/Clones_Character.md)의 정보를 새로 생성하여 당신의 이야기를 펼쳐보세요.
+   - [클론](docs/Clones_Character.md)의 정보를 새로 생성하여 당신의 이야기를 펼치세요.
    
 2. Insert any sentences which follows tokenloss settings. Or replace old sentences with better sentences you know.
 
