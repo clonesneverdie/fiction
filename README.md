@@ -25,14 +25,14 @@
 
       - 최근 현실과 SF장르 소설의 괴리가 빠르게 줄어들고 있으며, 세계는 SF소설에 점점 가까워지고 있습니다.
       - 이전에 만들어진 SF 세계관은 지금 우리가 예측하는 미래와는 매우 다릅니다.
-        - 그래서 흥미롭지가 않으며, 우리는 새로운 세계관이 필요합니다.
+      - 그래서 흥미롭지가 않으며, 우리는 새로운 세계관이 필요합니다.
 
    2. #### 지속되고 발전하는 이야기를 통해 NFT 예술작품이 잊혀지는 것을 방지하세요.
 
       - *NFT 수집가*는 스토리가 없는 작품을 사는 것을 주저하고, 이러한 작품은 잊혀지기 쉽고 재판매가 어렵기 때문입니다.
       - *NFT 작가*는 새로운 이야기를 만들 때 어려움을 느낄 수 있고, 새로운 이야기를 위한 커뮤니티를 계속 구축하는 것도 문제입니다.
       - 글쓰기만으로 수익을 내는 것도 *공상과학소설 작가*에게는 어려운 일입니다.
-            - 클론네버다이는 위의 세 문제를 해결할 수 있는 큰 주제를 제공합니다.
+      - 클론네버다이는 위의 세 문제를 해결할 수 있는 큰 주제를 제공합니다.
       
       
 
@@ -47,8 +47,6 @@
 1. 클론네버다이에서 펼쳐갈 나만의 클론 만들기.
    - [클론](docs/Clones_Character.md)의 정보를 새로 생성하여 당신의 이야기를 펼쳐보세요.
    
-
- 
 2. Insert any sentences which follows tokenloss settings. Or replace old sentences with better sentences you know.
 
 3. If you want to start a different story that fits tokenloss settings and worldview, start working by adding a new folder named a new subtitle.
