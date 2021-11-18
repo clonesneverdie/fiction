@@ -38,7 +38,7 @@
 ## 클론네버다이 소설 작성하기
 
 1. 클론네버다이에서 펼쳐갈 나만의 클론 만들기.
-   - [클론](docs/Clones_Character.md)의 정보를 새로 생성하여 당신의 이야기를 펼치세요.
+   - [클론의 정보](docs/Clones_Character.md)를 새로 생성하여 당신의 이야기를 펼치세요.
    
 2. Insert any sentences which follows tokenloss settings. Or replace old sentences with better sentences you know.
 
